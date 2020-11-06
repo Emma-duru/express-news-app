@@ -1,0 +1,10 @@
+.img-container {
+  height: 80px;
+  width: 80px;
+  overflow: hidden;
+}
+
+.news-img {
+  height: 100%;
+  width: auto;
+}
