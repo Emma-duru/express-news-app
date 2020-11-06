@@ -5,7 +5,7 @@ A news app made with that aggregates the news from different categories using th
 ## Technologies used
 
 - [nodejs](https://nodejs.org)
-- [express](https://express.com)
+- [express](https://expressjs.com)
 - [newsapi](https://newsapi.org)
 
 ## How to run
