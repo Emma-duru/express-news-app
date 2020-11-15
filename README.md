@@ -2,6 +2,8 @@
 
 A news app made with that aggregates the news from different categories using the News API.
 
+Project is live at [https://express-news-app-2020.herokuapp.com/](https://express-news-app-2020.herokuapp.com/)
+
 ## Technologies used
 
 - [nodejs](https://nodejs.org)
